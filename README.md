@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Palowa</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **React and the environment**
 
 - 📫 How to reach me **kevinpalowa@gmail.com**
 
